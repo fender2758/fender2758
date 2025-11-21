@@ -1,7 +1,6 @@
 ## Contacts
-📧: hyonjun.kang.00@gmail.com
-<br />
-     fender2758@cau.ac.kr
+📧:\thyonjun.kang.00@gmail.com
+<br />\tfender2758@cau.ac.kr
 
 ## Education
 * 2019.3 ~ 2023.8 : Chung-Ang University Computer Science & Engineering B.S.
